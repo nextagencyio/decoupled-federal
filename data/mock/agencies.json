@@ -1,0 +1,147 @@
+{
+  "data": {
+    "nodeAgencies": {
+      "__typename": "NodeAgencyConnection",
+      "nodes": [
+        {
+          "__typename": "NodeAgency",
+          "id": "agency-clean-air",
+          "title": "Office of Clean Air and Climate",
+          "path": "/agencies/office-clean-air",
+          "body": {
+            "processed": "<p>The Office of Clean Air and Climate leads the Department's efforts to protect air quality and address climate change through research, regulation, and technical assistance.</p><h2>Mission</h2><p>To ensure clean, healthy air for all Americans by setting and enforcing air quality standards, reducing greenhouse gas emissions, and supporting state and local air quality management programs.</p><h2>Key Activities</h2><ul><li>National Ambient Air Quality Standards (NAAQS) development</li><li>Greenhouse gas emission monitoring and reporting</li><li>Clean Air Act compliance and enforcement</li><li>Air quality forecasting and public health advisories</li></ul>",
+            "summary": "The Office of Clean Air and Climate leads the Department's efforts to protect air quality and address climate change through research, regulation, and technical assistance.MissionTo ensure clean, heal"
+          },
+          "headOfficial": "Dr. Patricia Hawkins",
+          "phone": "(202) 555-0140",
+          "email": "cleanair@des.gov",
+          "websiteUrl": "https://des.gov/clean-air",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=800&q=80",
+            "alt": "Clean air and blue sky over mountains",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "agencyType": [
+            {
+              "id": "office",
+              "name": "office"
+            }
+          ]
+        },
+        {
+          "__typename": "NodeAgency",
+          "id": "agency-water",
+          "title": "Bureau of Water Resources",
+          "path": "/agencies/bureau-water-resources",
+          "body": {
+            "processed": "<p>The Bureau of Water Resources is responsible for protecting the nation's water supplies, regulating water quality, and managing water infrastructure programs.</p><h2>Responsibilities</h2><ul><li>Safe Drinking Water Act implementation and enforcement</li><li>Clean Water Act permitting and compliance</li><li>Water infrastructure funding through the State Revolving Fund</li><li>Groundwater protection and contamination remediation</li><li>Watershed management and wetland conservation</li></ul><h2>Current Priorities</h2><p>The Bureau is focusing on lead pipe replacement, PFAS contamination response, and modernizing water treatment infrastructure across the nation.</p>",
+            "summary": "The Bureau of Water Resources is responsible for protecting the nation's water supplies, regulating water quality, and managing water infrastructure programs.ResponsibilitiesSafe Drinking Water Act im"
+          },
+          "headOfficial": "James Clearwater",
+          "phone": "(202) 555-0150",
+          "email": "water@des.gov",
+          "websiteUrl": "https://des.gov/water",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+            "alt": "Clean waterway surrounded by forest",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "agencyType": [
+            {
+              "id": "bureau",
+              "name": "bureau"
+            }
+          ]
+        },
+        {
+          "__typename": "NodeAgency",
+          "id": "agency-research",
+          "title": "Center for Environmental Research",
+          "path": "/agencies/center-environmental-research",
+          "body": {
+            "processed": "<p>The Center for Environmental Research provides the scientific foundation for the Department's regulatory and policy decisions through cutting-edge research across environmental disciplines.</p><h2>Research Areas</h2><ul><li>Climate change impacts and adaptation science</li><li>Toxicology and human health risk assessment</li><li>Ecosystem services and biodiversity</li><li>Environmental monitoring technologies</li><li>Computational modeling and data analytics</li></ul><h2>Laboratories</h2><p>The Center operates 12 national research laboratories and supports collaborative research with universities, other federal agencies, and international partners.</p>",
+            "summary": "The Center for Environmental Research provides the scientific foundation for the Department's regulatory and policy decisions through cutting-edge research across environmental disciplines.Research Ar"
+          },
+          "headOfficial": "Dr. Sarah Nakamura",
+          "phone": "(202) 555-0160",
+          "email": "research@des.gov",
+          "websiteUrl": "https://des.gov/research",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+            "alt": "Environmental research laboratory",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "agencyType": [
+            {
+              "id": "center",
+              "name": "center"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

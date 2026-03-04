@@ -1,0 +1,762 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "U.S. Department of Environmental Stewardship",
+          "path": "/homepage",
+          "heroTitle": "Protecting Our Environment",
+          "heroSubtitle": "Science-Based Solutions for a Sustainable Future",
+          "heroDescription": {
+            "processed": "<p>The U.S. Department of Environmental Stewardship safeguards human health and the environment through research, regulation, and partnerships with state, tribal, and local governments.</p>",
+            "summary": "The U.S. Department of Environmental Stewardship safeguards human health and the environment through research, regulation, and partnerships with state, tribal, and local governments."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-employees",
+              "title": "",
+              "number": "14,500",
+              "label": "Employees"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-budget",
+              "title": "",
+              "number": "$8.2B",
+              "label": "Annual Budget"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-programs",
+              "title": "",
+              "number": "120+",
+              "label": "Active Programs"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-offices",
+              "title": "",
+              "number": "48",
+              "label": "Regional Offices"
+            }
+          ],
+          "featuredItemsTitle": "Key Programs",
+          "ctaTitle": "Report Environmental Concerns",
+          "ctaDescription": {
+            "processed": "<p>If you observe environmental violations or hazards, report them through our secure online portal. Your report helps us protect communities and natural resources.</p>",
+            "summary": "If you observe environmental violations or hazards, report them through our secure online portal. Your report helps us protect communities and natural resources."
+          },
+          "ctaPrimary": "File a Report",
+          "ctaSecondary": "Learn About Our Work"
+        }
+      }
+    }
+  },
+  "/agencies/office-clean-air": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAgency",
+          "id": "agency-clean-air",
+          "title": "Office of Clean Air and Climate",
+          "path": "/agencies/office-clean-air",
+          "body": {
+            "processed": "<p>The Office of Clean Air and Climate leads the Department's efforts to protect air quality and address climate change through research, regulation, and technical assistance.</p><h2>Mission</h2><p>To ensure clean, healthy air for all Americans by setting and enforcing air quality standards, reducing greenhouse gas emissions, and supporting state and local air quality management programs.</p><h2>Key Activities</h2><ul><li>National Ambient Air Quality Standards (NAAQS) development</li><li>Greenhouse gas emission monitoring and reporting</li><li>Clean Air Act compliance and enforcement</li><li>Air quality forecasting and public health advisories</li></ul>",
+            "summary": "The Office of Clean Air and Climate leads the Department's efforts to protect air quality and address climate change through research, regulation, and technical assistance.MissionTo ensure clean, heal"
+          },
+          "headOfficial": "Dr. Patricia Hawkins",
+          "phone": "(202) 555-0140",
+          "email": "cleanair@des.gov",
+          "websiteUrl": "https://des.gov/clean-air",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=800&q=80",
+            "alt": "Clean air and blue sky over mountains",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "agencyType": [
+            {
+              "id": "office",
+              "name": "office"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "/agencies/bureau-water-resources": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAgency",
+          "id": "agency-water",
+          "title": "Bureau of Water Resources",
+          "path": "/agencies/bureau-water-resources",
+          "body": {
+            "processed": "<p>The Bureau of Water Resources is responsible for protecting the nation's water supplies, regulating water quality, and managing water infrastructure programs.</p><h2>Responsibilities</h2><ul><li>Safe Drinking Water Act implementation and enforcement</li><li>Clean Water Act permitting and compliance</li><li>Water infrastructure funding through the State Revolving Fund</li><li>Groundwater protection and contamination remediation</li><li>Watershed management and wetland conservation</li></ul><h2>Current Priorities</h2><p>The Bureau is focusing on lead pipe replacement, PFAS contamination response, and modernizing water treatment infrastructure across the nation.</p>",
+            "summary": "The Bureau of Water Resources is responsible for protecting the nation's water supplies, regulating water quality, and managing water infrastructure programs.ResponsibilitiesSafe Drinking Water Act im"
+          },
+          "headOfficial": "James Clearwater",
+          "phone": "(202) 555-0150",
+          "email": "water@des.gov",
+          "websiteUrl": "https://des.gov/water",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+            "alt": "Clean waterway surrounded by forest",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "agencyType": [
+            {
+              "id": "bureau",
+              "name": "bureau"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "/agencies/center-environmental-research": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAgency",
+          "id": "agency-research",
+          "title": "Center for Environmental Research",
+          "path": "/agencies/center-environmental-research",
+          "body": {
+            "processed": "<p>The Center for Environmental Research provides the scientific foundation for the Department's regulatory and policy decisions through cutting-edge research across environmental disciplines.</p><h2>Research Areas</h2><ul><li>Climate change impacts and adaptation science</li><li>Toxicology and human health risk assessment</li><li>Ecosystem services and biodiversity</li><li>Environmental monitoring technologies</li><li>Computational modeling and data analytics</li></ul><h2>Laboratories</h2><p>The Center operates 12 national research laboratories and supports collaborative research with universities, other federal agencies, and international partners.</p>",
+            "summary": "The Center for Environmental Research provides the scientific foundation for the Department's regulatory and policy decisions through cutting-edge research across environmental disciplines.Research Ar"
+          },
+          "headOfficial": "Dr. Sarah Nakamura",
+          "phone": "(202) 555-0160",
+          "email": "research@des.gov",
+          "websiteUrl": "https://des.gov/research",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+            "alt": "Environmental research laboratory",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "agencyType": [
+            {
+              "id": "center",
+              "name": "center"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "/officials/william-foster": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOfficial",
+          "id": "official-secretary",
+          "title": "William Foster",
+          "path": "/officials/william-foster",
+          "body": {
+            "processed": "<p>Secretary William Foster leads the U.S. Department of Environmental Stewardship, overseeing a workforce of 14,500 employees and an annual budget of $8.2 billion dedicated to protecting human health and the environment.</p><h2>Background</h2><p>Secretary Foster previously served as Director of the California Environmental Protection Agency and as a professor of environmental policy at Stanford University. He holds a Ph.D. in Environmental Science from MIT.</p><h2>Priorities</h2><ul><li>Advancing environmental justice in underserved communities</li><li>Accelerating the transition to clean energy</li><li>Strengthening enforcement of environmental regulations</li><li>Investing in climate resilience infrastructure</li></ul>",
+            "summary": "Secretary William Foster leads the U.S. Department of Environmental Stewardship, overseeing a workforce of 14,500 employees and an annual budget of $8.2 billion dedicated to protecting human health an"
+          },
+          "position": "Secretary",
+          "division": [
+            {
+              "id": "administration",
+              "name": "administration"
+            }
+          ],
+          "email": "secretary@des.gov",
+          "phone": "(202) 555-0100",
+          "office": "DES Headquarters, 1200 Constitution Ave NW, Washington, DC",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "Secretary William Foster",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/officials/elena-vasquez": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOfficial",
+          "id": "official-deputy",
+          "title": "Elena Vasquez",
+          "path": "/officials/elena-vasquez",
+          "body": {
+            "processed": "<p>Deputy Secretary Elena Vasquez serves as the Department's chief operating officer, managing day-to-day operations and coordinating policy across all bureaus and offices.</p><h2>Background</h2><p>Ms. Vasquez brings two decades of federal service experience, including roles at the EPA, Department of the Interior, and the White House Council on Environmental Quality.</p><h2>Focus Areas</h2><ul><li>Interagency coordination on environmental policy</li><li>Modernizing the Department's IT infrastructure</li><li>Workforce development and recruitment</li></ul>",
+            "summary": "Deputy Secretary Elena Vasquez serves as the Department's chief operating officer, managing day-to-day operations and coordinating policy across all bureaus and offices.BackgroundMs. Vasquez brings tw"
+          },
+          "position": "Deputy Secretary",
+          "division": [
+            {
+              "id": "administration",
+              "name": "administration"
+            }
+          ],
+          "email": "deputy.secretary@des.gov",
+          "phone": "(202) 555-0101",
+          "office": "DES Headquarters, 1200 Constitution Ave NW, Washington, DC",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Deputy Secretary Elena Vasquez",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/officials/robert-chen": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeOfficial",
+          "id": "official-inspector",
+          "title": "Robert Chen",
+          "path": "/officials/robert-chen",
+          "body": {
+            "processed": "<p>Inspector General Robert Chen leads the Office of Inspector General, providing independent oversight of the Department's programs and operations to prevent waste, fraud, and abuse.</p><h2>Oversight Functions</h2><ul><li>Audits of Department programs and expenditures</li><li>Investigations of misconduct and fraud</li><li>Program evaluations and performance reviews</li><li>Whistleblower protection and complaint processing</li></ul>",
+            "summary": "Inspector General Robert Chen leads the Office of Inspector General, providing independent oversight of the Department's programs and operations to prevent waste, fraud, and abuse.Oversight FunctionsA"
+          },
+          "position": "Inspector General",
+          "division": [
+            {
+              "id": "office",
+              "name": "office"
+            }
+          ],
+          "email": "oig@des.gov",
+          "phone": "(202) 555-0180",
+          "office": "DES Headquarters, 1200 Constitution Ave NW, Room 3400",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+            "alt": "Inspector General Robert Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/clean-water-infrastructure-grants": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-clean-water-grants",
+          "title": "Clean Water Infrastructure Grant Program",
+          "path": "/programs/clean-water-infrastructure-grants",
+          "body": {
+            "processed": "<p>The Clean Water Infrastructure Grant Program provides federal funding to state and local governments for upgrading drinking water and wastewater treatment systems.</p><h2>Program Details</h2><p>This competitive grant program helps communities replace aging pipes, upgrade treatment facilities, and implement innovative water management solutions. Priority is given to projects serving disadvantaged communities and addressing emerging contaminants.</p><h2>Eligible Activities</h2><ul><li>Drinking water treatment plant upgrades</li><li>Lead service line replacement</li><li>Wastewater system improvements</li><li>Stormwater management infrastructure</li><li>Water system consolidation projects</li></ul>",
+            "summary": "The Clean Water Infrastructure Grant Program provides federal funding to state and local governments for upgrading drinking water and wastewater treatment systems.Program DetailsThis competitive grant"
+          },
+          "division": [
+            {
+              "id": "bureau",
+              "name": "bureau"
+            }
+          ],
+          "eligibility": {
+            "processed": "<p>State and local governments, tribal nations, and water utilities serving communities with populations under 100,000. Projects must demonstrate a clear public health benefit and comply with federal environmental review requirements.</p>",
+            "summary": "State and local governments, tribal nations, and water utilities serving communities with populations under 100,000. Projects must demonstrate a clear public health benefit and comply with federal env"
+          },
+          "fundingAmount": "Up to $5 million per project",
+          "deadline": {
+            "timestamp": 1782881940
+          },
+          "programCategory": [
+            {
+              "id": "grants",
+              "name": "grants"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80",
+            "alt": "Water treatment facility",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/climate-resilience-research": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-climate-research",
+          "title": "Climate Resilience Research Initiative",
+          "path": "/programs/climate-resilience-research",
+          "body": {
+            "processed": "<p>The Climate Resilience Research Initiative funds scientific research to help communities prepare for and adapt to the impacts of climate change.</p><h2>Research Priorities</h2><ul><li>Coastal flooding and sea level rise adaptation</li><li>Extreme heat event preparedness</li><li>Drought resilience and water conservation</li><li>Wildfire risk reduction and forest management</li><li>Infrastructure vulnerability assessment</li></ul><h2>Application Process</h2><p>Proposals are accepted from universities, research institutions, state agencies, and qualified nonprofit organizations. A technical review panel evaluates proposals based on scientific merit, relevance, and feasibility.</p>",
+            "summary": "The Climate Resilience Research Initiative funds scientific research to help communities prepare for and adapt to the impacts of climate change.Research PrioritiesCoastal flooding and sea level rise a"
+          },
+          "division": [
+            {
+              "id": "center",
+              "name": "center"
+            }
+          ],
+          "eligibility": {
+            "processed": "<p>Accredited universities, federal and state research laboratories, nonprofit research organizations, and tribal colleges. Proposals must include a plan for translating research findings into practical guidance for communities.</p>",
+            "summary": "Accredited universities, federal and state research laboratories, nonprofit research organizations, and tribal colleges. Proposals must include a plan for translating research findings into practical "
+          },
+          "fundingAmount": "Up to $2 million over 3 years",
+          "deadline": {
+            "timestamp": 1789534740
+          },
+          "programCategory": [
+            {
+              "id": "research",
+              "name": "research"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+            "alt": "Climate research and monitoring",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/brownfields-revitalization": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-brownfields",
+          "title": "Brownfields Revitalization Program",
+          "path": "/programs/brownfields-revitalization",
+          "body": {
+            "processed": "<p>The Brownfields Revitalization Program provides funding and technical assistance to assess, clean up, and redevelop contaminated properties, transforming environmental liabilities into community assets.</p><h2>Program Components</h2><ul><li>Assessment grants for environmental site investigations</li><li>Cleanup grants for remediation of contaminated sites</li><li>Revolving loan funds for brownfield redevelopment</li><li>Technical assistance and job training for local communities</li></ul><h2>Success Stories</h2><p>Since its inception, the program has helped remediate over 3,200 sites nationwide, creating an estimated 45,000 jobs and leveraging $12 billion in private investment.</p>",
+            "summary": "The Brownfields Revitalization Program provides funding and technical assistance to assess, clean up, and redevelop contaminated properties, transforming environmental liabilities into community asset"
+          },
+          "division": [
+            {
+              "id": "office",
+              "name": "office"
+            }
+          ],
+          "eligibility": {
+            "processed": "<p>Local governments, regional councils, land clearance authorities, quasi-governmental entities, and qualified nonprofit organizations. Sites must meet the federal definition of a brownfield under CERCLA.</p>",
+            "summary": "Local governments, regional councils, land clearance authorities, quasi-governmental entities, and qualified nonprofit organizations. Sites must meet the federal definition of a brownfield under CERCL"
+          },
+          "fundingAmount": "Up to $500,000 per assessment; up to $2 million per cleanup",
+          "deadline": {
+            "timestamp": 1793599140
+          },
+          "programCategory": [
+            {
+              "id": "community-development",
+              "name": "community-development"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+            "alt": "Urban brownfield site being revitalized",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/press/new-pfas-drinking-water-standards": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePressRelease",
+          "id": "press-pfas-rule",
+          "title": "Department Finalizes Historic PFAS Drinking Water Standards",
+          "path": "/press/new-pfas-drinking-water-standards",
+          "body": {
+            "processed": "<p>The U.S. Department of Environmental Stewardship today announced final drinking water standards for six per- and polyfluoroalkyl substances (PFAS), marking the first-ever federal limits on these persistent chemicals in drinking water.</p><h2>Key Provisions</h2><ul><li>Maximum contaminant levels (MCLs) set at 4 parts per trillion for PFOA and PFOS</li><li>Combined MCL of 10 parts per trillion for four additional PFAS compounds</li><li>Public water systems must monitor for PFAS and notify the public of violations</li><li>Compliance deadline: Three years from publication in the Federal Register</li></ul><h2>Funding Support</h2><p>The Department is making $9 billion available through the Clean Water Infrastructure Grant Program to help communities install treatment systems and address PFAS contamination.</p><p>\"These standards will protect millions of Americans from the harmful effects of PFAS contamination,\" said Secretary Foster. \"No family should have to worry about whether their drinking water is safe.\"</p>",
+            "summary": "The U.S. Department of Environmental Stewardship today announced final drinking water standards for six per- and polyfluoroalkyl substances (PFAS), marking the first-ever federal limits on these persi"
+          },
+          "releaseDate": {
+            "timestamp": 1768492800
+          },
+          "contactName": "Sarah Mitchell, Director of Communications",
+          "contactEmail": "press@des.gov",
+          "category": [
+            {
+              "id": "regulatory-actions",
+              "name": "regulatory-actions"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&q=80",
+            "alt": "Clean drinking water testing",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/press/air-quality-improvement-report": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePressRelease",
+          "id": "press-air-quality",
+          "title": "Annual Report Shows Significant Air Quality Improvements Nationwide",
+          "path": "/press/air-quality-improvement-report",
+          "body": {
+            "processed": "<p>The Department's annual Air Quality Assessment reveals that concentrations of six key pollutants have declined by an average of 12% over the past two years, with the most significant improvements in ozone and particulate matter levels.</p><h2>Key Findings</h2><ul><li>Ozone levels decreased by 15% in monitored urban areas</li><li>Fine particulate matter (PM2.5) levels dropped by 11% nationwide</li><li>The number of counties meeting all air quality standards increased from 82% to 87%</li><li>Air toxic emissions from industrial sources declined by 18%</li></ul><p>\"These results demonstrate that strong environmental protections and economic growth can go hand in hand,\" said Dr. Patricia Hawkins, Director of the Office of Clean Air and Climate.</p>",
+            "summary": "The Department's annual Air Quality Assessment reveals that concentrations of six key pollutants have declined by an average of 12% over the past two years, with the most significant improvements in o"
+          },
+          "releaseDate": {
+            "timestamp": 1771617600
+          },
+          "contactName": "Sarah Mitchell, Director of Communications",
+          "contactEmail": "press@des.gov",
+          "category": [
+            {
+              "id": "research-reports",
+              "name": "research-reports"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=800&q=80",
+            "alt": "Clear blue sky indicating improved air quality",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/press/enforcement-action-industrial-polluter": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePressRelease",
+          "id": "press-enforcement",
+          "title": "Department Takes Enforcement Action Against Major Industrial Polluter",
+          "path": "/press/enforcement-action-industrial-polluter",
+          "body": {
+            "processed": "<p>The Department announced a $45 million settlement with Consolidated Chemical Industries (CCI) for violations of the Clean Water Act and Resource Conservation and Recovery Act at its manufacturing facility in Riverside County, Ohio.</p><h2>Violations</h2><ul><li>Unauthorized discharge of industrial wastewater containing heavy metals</li><li>Improper storage and disposal of hazardous waste</li><li>Failure to report chemical releases as required by law</li><li>Operating without required environmental permits</li></ul><h2>Settlement Terms</h2><p>Under the consent decree, CCI must pay a $45 million civil penalty, implement comprehensive pollution prevention measures, fund $20 million in environmental restoration projects, and conduct long-term groundwater monitoring.</p>",
+            "summary": "The Department announced a $45 million settlement with Consolidated Chemical Industries (CCI) for violations of the Clean Water Act and Resource Conservation and Recovery Act at its manufacturing faci"
+          },
+          "releaseDate": {
+            "timestamp": 1772377200
+          },
+          "contactName": "Marcus Thompson, Press Secretary",
+          "contactEmail": "press@des.gov",
+          "category": [
+            {
+              "id": "enforcement",
+              "name": "enforcement"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+            "alt": "Industrial facility under environmental oversight",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About the Department",
+          "path": "/about",
+          "body": {
+            "processed": "<p>The U.S. Department of Environmental Stewardship (DES) was established to protect human health and the environment through science-based regulation, enforcement, and partnerships.</p><h2>Our Mission</h2><p>To safeguard the natural environment and protect human health by ensuring clean air, pure water, and healthy land for present and future generations.</p><h2>History</h2><p>Founded in 1970, the Department has grown from a small coordinating office into a comprehensive federal agency with 14,500 employees, 48 regional offices, and 12 national research laboratories.</p><h2>Organization</h2><ul><li>Office of the Secretary</li><li>Office of Clean Air and Climate</li><li>Bureau of Water Resources</li><li>Center for Environmental Research</li><li>Office of Environmental Justice</li><li>Office of Enforcement and Compliance</li></ul>",
+            "summary": "The U.S. Department of Environmental Stewardship (DES) was established to protect human health and the environment through science-based regulation, enforcement, and partnerships.Our MissionTo safegua"
+          }
+        }
+      }
+    }
+  },
+  "/foia": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-foia",
+          "title": "Freedom of Information Act (FOIA)",
+          "path": "/foia",
+          "body": {
+            "processed": "<p>The Freedom of Information Act (FOIA) provides the public with the right to request access to records from any federal agency. The Department is committed to transparency and processes FOIA requests in a timely manner.</p><h2>How to Submit a Request</h2><ul><li>Online: Submit through our electronic FOIA portal</li><li>Email: foia@des.gov</li><li>Mail: FOIA Office, DES, 1200 Constitution Ave NW, Washington, DC 20460</li></ul><h2>What to Include</h2><p>Clearly describe the records you are seeking, including dates, names, and subject matter. The more specific your request, the faster we can process it.</p><h2>Fees</h2><p>There is no fee for the first 100 pages of duplication and the first two hours of search time. Additional fees may apply for large requests.</p>",
+            "summary": "The Freedom of Information Act (FOIA) provides the public with the right to request access to records from any federal agency. The Department is committed to transparency and processes FOIA requests i"
+          }
+        }
+      }
+    }
+  }
+}

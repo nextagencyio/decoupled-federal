@@ -1,0 +1,150 @@
+{
+  "data": {
+    "nodePressReleases": {
+      "__typename": "NodePressReleaseConnection",
+      "nodes": [
+        {
+          "__typename": "NodePressRelease",
+          "id": "press-pfas-rule",
+          "title": "Department Finalizes Historic PFAS Drinking Water Standards",
+          "path": "/press/new-pfas-drinking-water-standards",
+          "body": {
+            "processed": "<p>The U.S. Department of Environmental Stewardship today announced final drinking water standards for six per- and polyfluoroalkyl substances (PFAS), marking the first-ever federal limits on these persistent chemicals in drinking water.</p><h2>Key Provisions</h2><ul><li>Maximum contaminant levels (MCLs) set at 4 parts per trillion for PFOA and PFOS</li><li>Combined MCL of 10 parts per trillion for four additional PFAS compounds</li><li>Public water systems must monitor for PFAS and notify the public of violations</li><li>Compliance deadline: Three years from publication in the Federal Register</li></ul><h2>Funding Support</h2><p>The Department is making $9 billion available through the Clean Water Infrastructure Grant Program to help communities install treatment systems and address PFAS contamination.</p><p>\"These standards will protect millions of Americans from the harmful effects of PFAS contamination,\" said Secretary Foster. \"No family should have to worry about whether their drinking water is safe.\"</p>",
+            "summary": "The U.S. Department of Environmental Stewardship today announced final drinking water standards for six per- and polyfluoroalkyl substances (PFAS), marking the first-ever federal limits on these persi"
+          },
+          "releaseDate": {
+            "timestamp": 1768492800
+          },
+          "contactName": "Sarah Mitchell, Director of Communications",
+          "contactEmail": "press@des.gov",
+          "category": [
+            {
+              "id": "regulatory-actions",
+              "name": "regulatory-actions"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&q=80",
+            "alt": "Clean drinking water testing",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodePressRelease",
+          "id": "press-air-quality",
+          "title": "Annual Report Shows Significant Air Quality Improvements Nationwide",
+          "path": "/press/air-quality-improvement-report",
+          "body": {
+            "processed": "<p>The Department's annual Air Quality Assessment reveals that concentrations of six key pollutants have declined by an average of 12% over the past two years, with the most significant improvements in ozone and particulate matter levels.</p><h2>Key Findings</h2><ul><li>Ozone levels decreased by 15% in monitored urban areas</li><li>Fine particulate matter (PM2.5) levels dropped by 11% nationwide</li><li>The number of counties meeting all air quality standards increased from 82% to 87%</li><li>Air toxic emissions from industrial sources declined by 18%</li></ul><p>\"These results demonstrate that strong environmental protections and economic growth can go hand in hand,\" said Dr. Patricia Hawkins, Director of the Office of Clean Air and Climate.</p>",
+            "summary": "The Department's annual Air Quality Assessment reveals that concentrations of six key pollutants have declined by an average of 12% over the past two years, with the most significant improvements in o"
+          },
+          "releaseDate": {
+            "timestamp": 1771617600
+          },
+          "contactName": "Sarah Mitchell, Director of Communications",
+          "contactEmail": "press@des.gov",
+          "category": [
+            {
+              "id": "research-reports",
+              "name": "research-reports"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=800&q=80",
+            "alt": "Clear blue sky indicating improved air quality",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodePressRelease",
+          "id": "press-enforcement",
+          "title": "Department Takes Enforcement Action Against Major Industrial Polluter",
+          "path": "/press/enforcement-action-industrial-polluter",
+          "body": {
+            "processed": "<p>The Department announced a $45 million settlement with Consolidated Chemical Industries (CCI) for violations of the Clean Water Act and Resource Conservation and Recovery Act at its manufacturing facility in Riverside County, Ohio.</p><h2>Violations</h2><ul><li>Unauthorized discharge of industrial wastewater containing heavy metals</li><li>Improper storage and disposal of hazardous waste</li><li>Failure to report chemical releases as required by law</li><li>Operating without required environmental permits</li></ul><h2>Settlement Terms</h2><p>Under the consent decree, CCI must pay a $45 million civil penalty, implement comprehensive pollution prevention measures, fund $20 million in environmental restoration projects, and conduct long-term groundwater monitoring.</p>",
+            "summary": "The Department announced a $45 million settlement with Consolidated Chemical Industries (CCI) for violations of the Clean Water Act and Resource Conservation and Recovery Act at its manufacturing faci"
+          },
+          "releaseDate": {
+            "timestamp": 1772377200
+          },
+          "contactName": "Marcus Thompson, Press Secretary",
+          "contactEmail": "press@des.gov",
+          "category": [
+            {
+              "id": "enforcement",
+              "name": "enforcement"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+            "alt": "Industrial facility under environmental oversight",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "nodeOfficials": {
+      "__typename": "NodeOfficialConnection",
+      "nodes": [
+        {
+          "__typename": "NodeOfficial",
+          "id": "official-secretary",
+          "title": "William Foster",
+          "path": "/officials/william-foster",
+          "body": {
+            "processed": "<p>Secretary William Foster leads the U.S. Department of Environmental Stewardship, overseeing a workforce of 14,500 employees and an annual budget of $8.2 billion dedicated to protecting human health and the environment.</p><h2>Background</h2><p>Secretary Foster previously served as Director of the California Environmental Protection Agency and as a professor of environmental policy at Stanford University. He holds a Ph.D. in Environmental Science from MIT.</p><h2>Priorities</h2><ul><li>Advancing environmental justice in underserved communities</li><li>Accelerating the transition to clean energy</li><li>Strengthening enforcement of environmental regulations</li><li>Investing in climate resilience infrastructure</li></ul>",
+            "summary": "Secretary William Foster leads the U.S. Department of Environmental Stewardship, overseeing a workforce of 14,500 employees and an annual budget of $8.2 billion dedicated to protecting human health an"
+          },
+          "position": "Secretary",
+          "division": [
+            {
+              "id": "administration",
+              "name": "administration"
+            }
+          ],
+          "email": "secretary@des.gov",
+          "phone": "(202) 555-0100",
+          "office": "DES Headquarters, 1200 Constitution Ave NW, Washington, DC",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+            "alt": "Secretary William Foster",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeOfficial",
+          "id": "official-deputy",
+          "title": "Elena Vasquez",
+          "path": "/officials/elena-vasquez",
+          "body": {
+            "processed": "<p>Deputy Secretary Elena Vasquez serves as the Department's chief operating officer, managing day-to-day operations and coordinating policy across all bureaus and offices.</p><h2>Background</h2><p>Ms. Vasquez brings two decades of federal service experience, including roles at the EPA, Department of the Interior, and the White House Council on Environmental Quality.</p><h2>Focus Areas</h2><ul><li>Interagency coordination on environmental policy</li><li>Modernizing the Department's IT infrastructure</li><li>Workforce development and recruitment</li></ul>",
+            "summary": "Deputy Secretary Elena Vasquez serves as the Department's chief operating officer, managing day-to-day operations and coordinating policy across all bureaus and offices.BackgroundMs. Vasquez brings tw"
+          },
+          "position": "Deputy Secretary",
+          "division": [
+            {
+              "id": "administration",
+              "name": "administration"
+            }
+          ],
+          "email": "deputy.secretary@des.gov",
+          "phone": "(202) 555-0101",
+          "office": "DES Headquarters, 1200 Constitution Ave NW, Washington, DC",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Deputy Secretary Elena Vasquez",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeOfficial",
+          "id": "official-inspector",
+          "title": "Robert Chen",
+          "path": "/officials/robert-chen",
+          "body": {
+            "processed": "<p>Inspector General Robert Chen leads the Office of Inspector General, providing independent oversight of the Department's programs and operations to prevent waste, fraud, and abuse.</p><h2>Oversight Functions</h2><ul><li>Audits of Department programs and expenditures</li><li>Investigations of misconduct and fraud</li><li>Program evaluations and performance reviews</li><li>Whistleblower protection and complaint processing</li></ul>",
+            "summary": "Inspector General Robert Chen leads the Office of Inspector General, providing independent oversight of the Department's programs and operations to prevent waste, fraud, and abuse.Oversight FunctionsA"
+          },
+          "position": "Inspector General",
+          "division": [
+            {
+              "id": "office",
+              "name": "office"
+            }
+          ],
+          "email": "oig@des.gov",
+          "phone": "(202) 555-0180",
+          "office": "DES Headquarters, 1200 Constitution Ave NW, Room 3400",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+            "alt": "Inspector General Robert Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

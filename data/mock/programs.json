@@ -1,0 +1,177 @@
+{
+  "data": {
+    "nodePrograms": {
+      "__typename": "NodeProgramConnection",
+      "nodes": [
+        {
+          "__typename": "NodeProgram",
+          "id": "program-clean-water-grants",
+          "title": "Clean Water Infrastructure Grant Program",
+          "path": "/programs/clean-water-infrastructure-grants",
+          "body": {
+            "processed": "<p>The Clean Water Infrastructure Grant Program provides federal funding to state and local governments for upgrading drinking water and wastewater treatment systems.</p><h2>Program Details</h2><p>This competitive grant program helps communities replace aging pipes, upgrade treatment facilities, and implement innovative water management solutions. Priority is given to projects serving disadvantaged communities and addressing emerging contaminants.</p><h2>Eligible Activities</h2><ul><li>Drinking water treatment plant upgrades</li><li>Lead service line replacement</li><li>Wastewater system improvements</li><li>Stormwater management infrastructure</li><li>Water system consolidation projects</li></ul>",
+            "summary": "The Clean Water Infrastructure Grant Program provides federal funding to state and local governments for upgrading drinking water and wastewater treatment systems.Program DetailsThis competitive grant"
+          },
+          "division": [
+            {
+              "id": "bureau",
+              "name": "bureau"
+            }
+          ],
+          "eligibility": {
+            "processed": "<p>State and local governments, tribal nations, and water utilities serving communities with populations under 100,000. Projects must demonstrate a clear public health benefit and comply with federal environmental review requirements.</p>",
+            "summary": "State and local governments, tribal nations, and water utilities serving communities with populations under 100,000. Projects must demonstrate a clear public health benefit and comply with federal env"
+          },
+          "fundingAmount": "Up to $5 million per project",
+          "deadline": {
+            "timestamp": 1782881940
+          },
+          "programCategory": [
+            {
+              "id": "grants",
+              "name": "grants"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80",
+            "alt": "Water treatment facility",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-climate-research",
+          "title": "Climate Resilience Research Initiative",
+          "path": "/programs/climate-resilience-research",
+          "body": {
+            "processed": "<p>The Climate Resilience Research Initiative funds scientific research to help communities prepare for and adapt to the impacts of climate change.</p><h2>Research Priorities</h2><ul><li>Coastal flooding and sea level rise adaptation</li><li>Extreme heat event preparedness</li><li>Drought resilience and water conservation</li><li>Wildfire risk reduction and forest management</li><li>Infrastructure vulnerability assessment</li></ul><h2>Application Process</h2><p>Proposals are accepted from universities, research institutions, state agencies, and qualified nonprofit organizations. A technical review panel evaluates proposals based on scientific merit, relevance, and feasibility.</p>",
+            "summary": "The Climate Resilience Research Initiative funds scientific research to help communities prepare for and adapt to the impacts of climate change.Research PrioritiesCoastal flooding and sea level rise a"
+          },
+          "division": [
+            {
+              "id": "center",
+              "name": "center"
+            }
+          ],
+          "eligibility": {
+            "processed": "<p>Accredited universities, federal and state research laboratories, nonprofit research organizations, and tribal colleges. Proposals must include a plan for translating research findings into practical guidance for communities.</p>",
+            "summary": "Accredited universities, federal and state research laboratories, nonprofit research organizations, and tribal colleges. Proposals must include a plan for translating research findings into practical "
+          },
+          "fundingAmount": "Up to $2 million over 3 years",
+          "deadline": {
+            "timestamp": 1789534740
+          },
+          "programCategory": [
+            {
+              "id": "research",
+              "name": "research"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+            "alt": "Climate research and monitoring",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-brownfields",
+          "title": "Brownfields Revitalization Program",
+          "path": "/programs/brownfields-revitalization",
+          "body": {
+            "processed": "<p>The Brownfields Revitalization Program provides funding and technical assistance to assess, clean up, and redevelop contaminated properties, transforming environmental liabilities into community assets.</p><h2>Program Components</h2><ul><li>Assessment grants for environmental site investigations</li><li>Cleanup grants for remediation of contaminated sites</li><li>Revolving loan funds for brownfield redevelopment</li><li>Technical assistance and job training for local communities</li></ul><h2>Success Stories</h2><p>Since its inception, the program has helped remediate over 3,200 sites nationwide, creating an estimated 45,000 jobs and leveraging $12 billion in private investment.</p>",
+            "summary": "The Brownfields Revitalization Program provides funding and technical assistance to assess, clean up, and redevelop contaminated properties, transforming environmental liabilities into community asset"
+          },
+          "division": [
+            {
+              "id": "office",
+              "name": "office"
+            }
+          ],
+          "eligibility": {
+            "processed": "<p>Local governments, regional councils, land clearance authorities, quasi-governmental entities, and qualified nonprofit organizations. Sites must meet the federal definition of a brownfield under CERCLA.</p>",
+            "summary": "Local governments, regional councils, land clearance authorities, quasi-governmental entities, and qualified nonprofit organizations. Sites must meet the federal definition of a brownfield under CERCL"
+          },
+          "fundingAmount": "Up to $500,000 per assessment; up to $2 million per cleanup",
+          "deadline": {
+            "timestamp": 1793599140
+          },
+          "programCategory": [
+            {
+              "id": "community-development",
+              "name": "community-development"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+            "alt": "Urban brownfield site being revitalized",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

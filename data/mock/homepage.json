@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "U.S. Department of Environmental Stewardship",
+          "path": "/homepage",
+          "heroTitle": "Protecting Our Environment",
+          "heroSubtitle": "Science-Based Solutions for a Sustainable Future",
+          "heroDescription": {
+            "processed": "<p>The U.S. Department of Environmental Stewardship safeguards human health and the environment through research, regulation, and partnerships with state, tribal, and local governments.</p>",
+            "summary": "The U.S. Department of Environmental Stewardship safeguards human health and the environment through research, regulation, and partnerships with state, tribal, and local governments."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-employees",
+              "title": "",
+              "number": "14,500",
+              "label": "Employees"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-budget",
+              "title": "",
+              "number": "$8.2B",
+              "label": "Annual Budget"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-programs",
+              "title": "",
+              "number": "120+",
+              "label": "Active Programs"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-offices",
+              "title": "",
+              "number": "48",
+              "label": "Regional Offices"
+            }
+          ],
+          "featuredItemsTitle": "Key Programs",
+          "ctaTitle": "Report Environmental Concerns",
+          "ctaDescription": {
+            "processed": "<p>If you observe environmental violations or hazards, report them through our secure online portal. Your report helps us protect communities and natural resources.</p>",
+            "summary": "If you observe environmental violations or hazards, report them through our secure online portal. Your report helps us protect communities and natural resources."
+          },
+          "ctaPrimary": "File a Report",
+          "ctaSecondary": "Learn About Our Work"
+        }
+      ]
+    }
+  }
+}
