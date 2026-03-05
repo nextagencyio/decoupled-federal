@@ -13,8 +13,16 @@ export default function HeroSection({ homepageContent }: HeroSectionProps) {
   const description = (homepageContent as any)?.heroDescription?.processed || ''
 
   return (
-    <section className="bg-primary-800 pt-32 pb-16">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="relative overflow-hidden bg-primary-900 pt-32 pb-16">
+      <div className="absolute inset-0">
+        <img
+          src="https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=1800&q=80&fit=crop"
+          alt="Government building"
+          className="h-full w-full object-cover opacity-15"
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-primary-950/95 via-primary-900/85 to-primary-800/75" />
+      </div>
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl">
           <div className="flex items-center gap-3 mb-4">
             <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center">
