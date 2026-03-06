@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-employees",
               "title": "",
-              "number": "14,500",
+              "number": "14,500", "value": "14,500",
               "label": "Employees"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-budget",
               "title": "",
-              "number": "$8.2B",
+              "number": "$8.2B", "value": "$8.2B",
               "label": "Annual Budget"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-programs",
               "title": "",
-              "number": "120+",
+              "number": "120+", "value": "120+",
               "label": "Active Programs"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-offices",
               "title": "",
-              "number": "48",
+              "number": "48", "value": "48",
               "label": "Regional Offices"
             }
           ],
